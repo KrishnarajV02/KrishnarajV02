@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<script src="https://cdn.jsdelivr.net/npm/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+
+<lottie-player src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f600/lottie.json"  background="transparent" speed="1" style="width: 300px; height: 300px;" loop autoplay></lottie-player>
