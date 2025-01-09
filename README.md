@@ -14,6 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<script src="https://cdn.jsdelivr.net/npm/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
 
-<lottie-player src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f600/lottie.json"  background="transparent" speed="1" style="width: 300px; height: 300px;" loop autoplay></lottie-player>
+
+
+
+
+<picture>
+  <!-- <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f600/512.webp" type="image/webp"> -->
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f600/512.gif" alt="😀" width="100" height="100">
+</picture>
+
+
+![Grinning Face](https://fonts.gstatic.com/s/e/notoemoji/latest/1f600/512.gif)
+
+![Grinning Face](https://fonts.gstatic.com/s/e/notoemoji/latest/1f600/512.gif)
+
+
+![Grinning Face](https://fonts.gstatic.com/s/e/notoemoji/latest/1f600/512.gif=32x32)
+
+[![Krishnaraj-coderz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=krishnaraj-coderz&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
