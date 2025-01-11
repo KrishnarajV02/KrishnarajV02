@@ -1,4 +1,4 @@
-# **Hi, I am Krishnaraj 👋😀**  <img style="margin:-4px;" src='./Animation - 1736583196586.gif'>
+# **Hi, I am Krishnaraj 👋😀**  <img style="margin-bottom:-18px;" src='./Animation - 1736583196586.gif'>
 
 
 Proactive Backend Developer with hands-on experience in building scalable and efficient backend solutions. Skilled in using **Django**, **Express.js**, and modern database technologies like **MongoDB** and **PostgreSQL** to deliver impactful and high-performance systems. Adept at enhancing system performance, optimizing costs, and solving complex technical challenges.
